@@ -8,7 +8,7 @@
 
 - 在不修改`info.plist`文件之前，一定要用*`https`*的网络请求(如何修改请百度)，或以如下方式配置：
 
-  ### ![iOS_Plist_Http](/Users/mahao/Desktop/react-native-common-problems/image/iOS_Plist_Http.png)
+  ### ![iOS_Plist_Http](https://github.com/mah93/react-native-common-problems/blob/master/image/iOS_Plist_Http.png)
 
 - 在使用定位，拍照，相机等权限的时候，需要在*`info.plist`*中做出修改
 - 搜索框、长按等出来的菜单，做本地化处理后，可显示中文
